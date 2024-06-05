@@ -20,7 +20,6 @@ RecruitX is a comprehensive recruitment platform designed to streamline the hiri
 - Frontend: React JS, Tailwind CSS
 - Backend: Python, Flask
 - Database: SQLite
-- Other: Cosine Similarity Algorithm for skill matching
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/vikisaintgits/recruitx.git`
@@ -39,9 +38,8 @@ RecruitX is a comprehensive recruitment platform designed to streamline the hiri
    - Apply for jobs by uploading resumes.
 
 ### Screenshots
-
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/login.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/hr_dash.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/create_post.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/active_post.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/apply.jpg)
+<img src="https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/login.jpg" alt="Image" width="600"/>
+<img src="https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/hr_dash.jpg" alt="Image" width="600"/>
+<img src="https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/create_post.jpg" alt="Image" width="600"/>
+<img src="https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/active_post.jpg" alt="Image" width="600"/>
+<img src="https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/apply.jpg" alt="Image" width="600"/>
