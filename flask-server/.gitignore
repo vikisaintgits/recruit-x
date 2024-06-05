@@ -1,0 +1,7 @@
+myenv
+.env
+__pycache_
+test.py
+uploads
+mydatabase.db
+schema.sql
