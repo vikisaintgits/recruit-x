@@ -1,4 +1,4 @@
-# RecruitX - A recruitment platform with advanced capabilities
+# RecruitX - An intelligent recruitment platform
 
 ### Description
 RecruitX is a comprehensive recruitment platform designed to streamline the hiring process for both HR professionals and job seekers. With two modules - HR and Users - RecruitX offers a user-friendly interface for posting job openings, submitting applications, and analyzing resumes.
