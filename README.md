@@ -39,8 +39,9 @@ RecruitX is a comprehensive recruitment platform designed to streamline the hiri
    - Apply for jobs by uploading resumes.
 
 ### Screenshots
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/login.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/hr_dash.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/create_post.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/active_post.jpg)
-![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/apply.jpg)
+
+![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/login.jpg | width=200)
+![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/hr_dash.jpg | width=200)
+![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/create_post.jpg | width=200)
+![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/active_post.jpg | width=200)
+![Image](https://raw.githubusercontent.com/vikisaintgits/recruit-x/main/recruitx/screenshots/apply.jpg | width=200)
